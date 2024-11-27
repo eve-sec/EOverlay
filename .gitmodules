@@ -1,0 +1,9 @@
+[submodule "game-overlay/sln"]
+	path = game-overlay/sln
+	url = git@github.com:eve-sec/EOverlay-sln.git
+[submodule "client-server"]
+	path = client-server
+	url = git@github.com:eve-sec/EOverlay-client.git
+[submodule "updater"]
+	path = updater
+	url = git@github.com:eve-sec/EOverlay-Updater.git
